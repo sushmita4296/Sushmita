@@ -20,7 +20,7 @@ import a7 from "./assets/images/protfolio/7.png"
 import a8 from "./assets/images/protfolio/8.png"
 import a9 from "./assets/images/protfolio/9.png"
 
-const logotext = "at!k";
+const logotext = "Sush";
 const meta = {
     title: "Sushmita Das",
     description: "I’m Sushmita Das _ Front end devloper , currently working at SJ Innovation LLC, New York USA.",
@@ -89,22 +89,23 @@ const skills = [{
 },
 ];
 
-const services = [{
-    title: "Digitizefit , New York | 2022- Present",
-    description: [
-        "Built interactive single-page Next js app",
-        "Developed SPA using Rest API",
-        "Utilize Html, CSS, and Javascript to create 10+ responsive landing pages for both company and client",
-    ]
-},
-{
-    title: "OrderVox Limited , Portsmouth, UK | 2021-2022",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-},
-{
-    title: "Salah Software Solution | 2020 - 2021",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-},
+const services = [
+// {
+//     title: "Digitizefit , New York | 2022- Present",
+//     description: [
+//         "Built interactive single-page Next js app",
+//         "Developed SPA using Rest API",
+//         "Utilize Html, CSS, and Javascript to create 10+ responsive landing pages for both company and client",
+//     ]
+// },
+// {
+//     title: "OrderVox Limited , Portsmouth, UK | 2021-2022",
+//     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+// },
+// {
+//     title: "Salah Software Solution | 2020 - 2021",
+//     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+// },
 ];
 
 const dataportfolio = [{
