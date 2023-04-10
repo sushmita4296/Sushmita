@@ -10,15 +10,6 @@ import p7 from "./assets/images/icon/6.png"
 import p8 from "./assets/images/icon/7.png"
 
 
-import a1 from "./assets/images/protfolio/1.png"
-import a2 from "./assets/images/protfolio/2.png"
-import a3 from "./assets/images/protfolio/3.png"
-import a4 from "./assets/images/protfolio/4.png"
-import a5 from "./assets/images/protfolio/5.png"
-import a6 from "./assets/images/protfolio/6.png"
-import a7 from "./assets/images/protfolio/7.png"
-import a8 from "./assets/images/protfolio/8.png"
-import a9 from "./assets/images/protfolio/9.png"
 
 const logotext = "Sush";
 const meta = {
@@ -108,64 +99,65 @@ const services = [
 // },
 ];
 
-const dataportfolio = [{
-    img: a1,
-    desctiption: "Surma",
-    link: "https://surma.vercel.app/",
-},
-{
-    img: a2,
-    desctiption: "C3NTRAL",
-    link: "https://c3nft.vercel.app/",
-},
-{
-    img: a3,
-    desctiption: "Enft",
-    link: "https://anft.vercel.app/",
-},
-{
-    img: a4,
-    desctiption: "Paso",
-    link: "https://templates.hibootstrap.com/paso/default/index.html",
-},
-{
-    img: a5,
-    desctiption: "Edvi",
-    link: "https://templates.hibootstrap.com/edvi/default/index.html",
-},
-{
-    img: a6,
-    desctiption: "Abook",
-    link: "https://aabook.vercel.app/#",
-},
-{
-    img: a7,
-    desctiption: "Ordere",
-    link: "https://ordere.co.uk/",
-},
+const dataportfolio = [
+//     {
+//     img: a1,
+//     desctiption: "Surma",
+//     link: "https://surma.vercel.app/",
+// },
+// {
+//     img: a2,
+//     desctiption: "C3NTRAL",
+//     link: "https://c3nft.vercel.app/",
+// },
+// {
+//     img: a3,
+//     desctiption: "Enft",
+//     link: "https://anft.vercel.app/",
+// },
+// {
+//     img: a4,
+//     desctiption: "Paso",
+//     link: "https://templates.hibootstrap.com/paso/default/index.html",
+// },
+// {
+//     img: a5,
+//     desctiption: "Edvi",
+//     link: "https://templates.hibootstrap.com/edvi/default/index.html",
+// },
+// {
+//     img: a6,
+//     desctiption: "Abook",
+//     link: "https://aabook.vercel.app/#",
+// },
+// {
+//     img: a7,
+//     desctiption: "Ordere",
+//     link: "https://ordere.co.uk/",
+// },
 
-{
-    img: a8,
-    desctiption: "art",
-    link: "https://atikulislamatik.github.io/art/",
-},
-{
-    img: a9,
-    desctiption: "Estate",
-    link: "https://atikulislamatik.github.io/Estate/",
-},
+// {
+//     img: a8,
+//     desctiption: "art",
+//     link: "https://atikulislamatik.github.io/art/",
+// },
+// {
+//     img: a9,
+//     desctiption: "Estate",
+//     link: "https://atikulislamatik.github.io/Estate/",
+// },
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "islam.atik15@gmail.com",
-    YOUR_FONE: "+880 1729 105192",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "sushmita4296@gmail.com",
+    YOUR_FONE: "+880 1756 957897",
+    description: "Let's connect! Contact me below to chat about projects, feedback, or just to say hello. Looking forward to hearing from you!",
 };
 
 const socialprofils = {
-    github: "https://github.com/atikulislamatik",
-    facebook: "https://facebook.com/atikulislamromon",
-    linkedin: "https://linkedin.com/in/atikul-islam-romon/",
+    github: "https://github.com/sushmita4296",
+    facebook: "https://www.facebook.com/das.sushmita.96",
+    linkedin: "https://www.linkedin.com/in/sushmita96/",
 };
 export {
     meta,

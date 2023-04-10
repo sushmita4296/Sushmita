@@ -1,10 +1,10 @@
 import React from "react";
-import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
-import Typewriter from "typewriter-effect";
-import { introdata, meta } from "../../content_option";
 import { Link } from "react-router-dom";
-import Cv from "../../assets/cv.pdf"
+import Typewriter from "typewriter-effect";
+import Cv from "../../assets/cv.pdf";
+import { introdata, meta } from "../../content_option";
+import "./style.css";
 const Home = () => {
   return (
     <HelmetProvider>
@@ -40,7 +40,7 @@ const Home = () => {
                 <p className="mb-1x">{introdata.description}</p>
                 <div className="intro_btn-action pb-5">
 
-                  <a href={Cv} download="Cv_Md_Atikul_Islam_Romon.pdf" className="text_2">
+                  <a href={Cv} download="Sushmita.pdf" className="text_2">
                     <div id="button_p" className="ac_btn btn ">
                       Download Cv
                       <div className="ring one"></div>
